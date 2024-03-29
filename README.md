@@ -1,4 +1,2 @@
-# first.java
-Hey this is a first java git re
-<b>   Author: mikal aslam</b>
-you know this is just testing of git hub 
+<h1>Mikal Aslam</h1>
+<p><b>Hey Guys,</b>My name is Mikal and i am from karachi Pakistan..</p>
